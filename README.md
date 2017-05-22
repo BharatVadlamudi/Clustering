@@ -1,2 +1,2 @@
-# Clustering1
-Heirarcical and K means 
+# CART
+Decision Trees, Random Forest, K Fold Cross Validation
